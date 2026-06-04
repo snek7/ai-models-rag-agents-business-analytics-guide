@@ -31,6 +31,20 @@ AI / LLM
 RAG | Database | Documents
        ↓
 Insights & Decisions
+
+## Why This Project?
+
+Most people interact with AI through chat interfaces.
+
+This project focuses on understanding what happens behind the scenes:
+
+* How AI retrieves information using RAG
+* How AI interacts with databases through natural language
+* How AI agents are evaluated using benchmark datasets
+* How document-based AI assistants work
+
+The goal is to make these concepts easier for beginners, MBA students, and business analysts to understand through hands-on examples rather than theory alone.
+
 ```
 
 ---
@@ -111,6 +125,18 @@ Answer
 * AI models should be evaluated using benchmarks, not assumptions.
 * Document intelligence can improve enterprise knowledge management.
 
+---
+## Business Relevance
+
+The technologies explored in this project have practical applications across industries:
+
+* AI-powered knowledge management
+* Natural language business intelligence
+* Enterprise search and document retrieval
+* Decision support systems
+* AI-assisted analytics and reporting
+
+Understanding these concepts is becoming increasingly important for Business Analysts, Product Managers, Consultants, and Data Professionals working in AI-enabled organizations.
 ---
 
 ##  Resources
