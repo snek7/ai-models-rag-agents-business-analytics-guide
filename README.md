@@ -70,7 +70,7 @@ MariaDB
        ↓
 Business Insight
 ```
-![SQL Agent](images/SQL query.png)
+![SQL Agent](images/SQL-query.png)
 
 ---
 
@@ -78,7 +78,7 @@ Business Insight
 
 Comparing model performance using benchmark datasets and evaluating reasoning capabilities.
 
-![GAIA Benchmark](images/GAIA Benchmark.png)
+![GAIA Benchmark](images/GAIA-Benchmark.png)
 
 
 ---
@@ -139,6 +139,16 @@ The technologies explored in this project have practical applications across ind
 Understanding these concepts is becoming increasingly important for Business Analysts, Product Managers, Consultants, and Data Professionals working in AI-enabled organizations.
 ---
 
+## Why I Built This
+
+Artificial Intelligence is everywhere today, but understanding how modern AI systems actually work can be challenging for beginners.
+
+As an MBA Business Analytics candidate with a background in enterprise consulting, I wanted to move beyond simply using AI tools and understand how they interact with data, documents, databases, and business processes.
+
+This repository documents my hands-on exploration of Retrieval-Augmented Generation (RAG), Natural Language to SQL, AI Agent Evaluation, and Document Intelligence. The goal is to explain these concepts through practical examples that are easy to follow and reproduce.
+
+---
+
 ##  Resources
 
 * LangChain
@@ -152,6 +162,21 @@ Understanding these concepts is becoming increasingly important for Business Ana
 ## 🤝 Connect
 
 If you're learning AI, Business Analytics, or Generative AI, feel free to connect and share ideas.
+
+---
+## What I Learned
+
+Through this project, I gained practical experience with:
+
+* GitHub Models and GPT-5
+* LangChain and LlamaIndex
+* Retrieval-Augmented Generation (RAG)
+* Natural Language to SQL
+* AI Agent Benchmarking
+* Document Intelligence using AnythingLLM
+
+More importantly, I learned that successful AI solutions are not just about choosing a powerful model. The real value comes from combining models with the right data, retrieval mechanisms, evaluation frameworks, and business context.
+
 
 
 
