@@ -1,5 +1,5 @@
 # AI Models, RAG, SQL & Agents Starter Guide
-
+![Project Cover](images/cover.png)
 ## From AI User to AI Builder
 
 A beginner-friendly, hands-on guide to understanding how modern AI systems work beyond prompting.
