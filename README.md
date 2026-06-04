@@ -1,4 +1,4 @@
-# AI Models, RAG, SQL & Agents Starter Guide
+
 ![Project Cover](images/cover.png)
 ## From AI User to AI Builder
 
@@ -70,7 +70,7 @@ MariaDB
        ↓
 Business Insight
 ```
-![SQL Agent](images/SQL-query.png)
+![SQL Agent](images/SQL query.png)
 
 ---
 
@@ -78,7 +78,7 @@ Business Insight
 
 Comparing model performance using benchmark datasets and evaluating reasoning capabilities.
 
-![GAIA Benchmark](images/GAIA-Benchmark.png)
+![GAIA Benchmark](images/GAIA Benchmark.png)
 
 
 ---
