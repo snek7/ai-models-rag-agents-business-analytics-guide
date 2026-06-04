@@ -38,6 +38,7 @@ Insights & Decisions
 ## 🔹 Part 1: Retrieval-Augmented Generation (RAG)
 Understanding how AI models can use external knowledge sources to generate more accurate and context-aware responses.
 
+![RAG Demo](images/RAG-Demo.png)
 
 ---
 
@@ -55,7 +56,7 @@ MariaDB
        ↓
 Business Insight
 ```
-
+![SQL Agent](images/SQL-query.png)
 
 ---
 
@@ -63,6 +64,7 @@ Business Insight
 
 Comparing model performance using benchmark datasets and evaluating reasoning capabilities.
 
+![GAIA Benchmark](images/GAIA-Benchmark.png)
 
 
 ---
@@ -82,6 +84,7 @@ LLM
     ↓
 Answer
 ```
+![AnythingLLM](images/AnythingLLm.png)
 
 
 ---
@@ -123,4 +126,6 @@ Answer
 ## 🤝 Connect
 
 If you're learning AI, Business Analytics, or Generative AI, feel free to connect and share ideas.
+
+
 
